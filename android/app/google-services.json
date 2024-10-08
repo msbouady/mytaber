@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840223818220",
+    "project_id": "my-taber",
+    "storage_bucket": "my-taber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840223818220:android:7f675244605e47113e80c9",
+        "android_client_info": {
+          "package_name": "com.example.mytaber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1oS1bReOlJaKkj4-acD9M-hS0aeF4_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840223818220:android:5d128d1f08e890b73e80c9",
+        "android_client_info": {
+          "package_name": "com.mytaber.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1oS1bReOlJaKkj4-acD9M-hS0aeF4_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
